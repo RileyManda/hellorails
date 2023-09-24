@@ -93,7 +93,7 @@
 
 - **[ROR Setup with postgresql]**
 - **[Ruby linter setup]**
-- **[Hello Work basic UI route to page]**
+- **[Hello World basic UI route to page]**
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
